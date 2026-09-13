@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suraj%20Apar&fontSize=48&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Offensive%20Security%20%7C%20SOC%20Analysis&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst+%7C+Junior+Pentester;eJPT+Certified+%F0%9F%8E%96%EF%B8%8F;TryHackMe+Level+10+%7C+Top+5%25+Globally;Breaking+things+to+learn+how+to+defend+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=600&lines=Aspiring+SOC+Analyst+%7C+Junior+Pentester;eJPT+Certified+%F0%9F%8E%96%EF%B8%8F;TryHackMe+Level+10+%7C+Top+2%25+Globally;Breaking+things+to+help+fix+them" alt="Typing SVG" />
 </a>
 
 <br/>
